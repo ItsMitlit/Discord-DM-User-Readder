@@ -1,0 +1,11 @@
+{
+    "name": "dm-user-readder",
+    "version": "1.0.0",
+    "description": "Readds users to group DMs when they leave.",
+    "main": "index.js",
+    "author": "Mitlit",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js-selfbot-v13": "^3.6.1"
+    }
+  }

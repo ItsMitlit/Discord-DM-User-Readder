@@ -1,0 +1,7 @@
+{
+    "token": "ENTER YOUR ACCOUNT TOKEN HERE",
+    "usertoreadd": "ENTER THE USER ID OF THE USER YOU WANT TO READD HERE",
+    "channelId": "ENTER THE CHANNEL ID OF THE DM GROUP YOU WANT TO READD THE USER TO HERE",
+    "logSuccesses": true
+  }
+  
